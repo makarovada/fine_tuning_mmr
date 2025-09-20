@@ -1,0 +1,10 @@
+torch
+torchvision
+timm
+matplotlib
+scikit-learn
+jupyter
+onnx
+onnxruntime
+gradio
+streamlit
